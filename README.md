@@ -6,7 +6,7 @@ Data Preprocessing, Hadoop, Pig, HBase, Hive
 
 <h1 align = "center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ajinkyap331&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harsha199-ops&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 </h1>
