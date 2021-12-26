@@ -29,9 +29,9 @@ Data Preprocessing, Hadoop, Pig, HBase, Hive
 
 <p align="center"> 
     <a> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
-    <a> <img src="https://user-images.githubusercontent.com/72719513/147401938-5b293ed1-d61e-4ae4-bce8-fc5e43d604bf.png" width="60" height="60"/> </a> 
+    <a> <img src="https://user-images.githubusercontent.com/72719513/147403020-3eae472d-e788-4844-bb58-120c32c27a26.png" width="70" height="70"/> </a> 
     <a> <img src="https://user-images.githubusercontent.com/72719513/147401957-2b318efa-1deb-4c58-ac30-00bca29b9483.png" width="60" height="60"/> </a> 
-    <a> <img src="https://user-images.githubusercontent.com/72719513/147401993-5d0ebd5b-2554-4543-8d9a-69b1d328fb30.png" width="60" height="60"/> </a> 
+      <a> <img src="https://user-images.githubusercontent.com/72719513/147401993-5d0ebd5b-2554-4543-8d9a-69b1d328fb30.png" width="60" height="60"/> </a> 
     <a> <img src="https://user-images.githubusercontent.com/72719513/147402001-140f3057-b784-4fe6-8dbc-0798c1218b97.png" width="60" height="60"/> </a> 
     <a> <img src="https://img.icons8.com/windows/48/26e07f/node-js.png" width="48" height="48"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/26e07f/css3.png"/> </a> 
@@ -62,7 +62,7 @@ Data Preprocessing, Hadoop, Pig, HBase, Hive
 <br/>
 <br/>
 
-<a href="https://github.com/Harsha199-ops/github-readme-activity-graph"><img alt="Ajinkya Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harsha199-ops&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Harsha199-ops/github-readme-activity-graph"><img alt="Sri Harsha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harsha199-ops&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -70,14 +70,13 @@ Data Preprocessing, Hadoop, Pig, HBase, Hive
 ## Connect with me:
 <p align="left">
 
-<a href = "mailto:ajinkyap331@gmail.com"><img src="https://img.icons8.com/material-outlined/48/ffffff/email.png"/></a>
-<a href = "https://www.linkedin.com/in/ajinkya-patil-144709208"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/ajinkya_03_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto: harsharockz91@gmail.com"><img src="https://user-images.githubusercontent.com/72719513/147402836-63b483a3-1c70-4ee3-a1f1-edb4897b73cc.png" width="50" height="50"/></a>
+<a href = "https://www.linkedin.com/in/sri-harsha-seelamneni-a02a33193/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ajinkyap331">
+<a href="https://github.com/Harsha199-ops/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Harsha199-ops">
 </a>
 <a href="https://github.com/Harsha199-ops?tab=followers"><img src="https://img.shields.io/github/followers/Harsha199-ops?label=Followers&style=social" alt="GitHub Badge"></a>
